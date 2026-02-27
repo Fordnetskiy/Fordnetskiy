@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 Backend Developer focused on Node.js ecosystem  
+I am learning backend with a focus on Node.js.
 
 
 💻 Languages
@@ -13,7 +13,7 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+<!-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) -->
 
 
 🗄 Databases
@@ -25,8 +25,8 @@
 🛠 Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+<!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
+<!--![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) -->
 
 <!--
 **Fordnetskiy/Fordnetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
