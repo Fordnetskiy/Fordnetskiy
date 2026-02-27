@@ -28,16 +28,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВІЙ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-📌 About Me
-
-I focus on writing structured, maintainable backend systems.  
-Interested in architecture, clean code principles and scalable application design.
 <!--
 **Fordnetskiy/Fordnetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
